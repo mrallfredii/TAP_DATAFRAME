@@ -1,6 +1,6 @@
 # TAP Practica 2021-22
 
-Java implementation of design patterns, with the aim of making dataframes
+Java implementation of design patterns, with the aim of making dataframes with the values
 
 PATTERNS IMPLEMENTED
 1. Composite pattern
